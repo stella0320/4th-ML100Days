@@ -11,5 +11,5 @@
 ### D006 <a href="https://ai100-fileentity.cupoy.com/4th/dailytask/1581070199929/1582710407850/__PDF__?t=1582710932147">EDA資料類型介紹</a>
 
 - 補充資料
-<a href="https://python-graph-gallery.com/">Python-Graph-Gallery</a>
+<a href="https://python-graph-gallery.com/">Python Graph Gallery</a>
 
